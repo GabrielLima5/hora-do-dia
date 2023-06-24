@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# hora-do-dia
+Um website camaleão, desenvolvido com React, que mostra a hora atual e muda a cor de fundo de acordo com o período do dia corrente. Durante o período da manhã, o fundo fica mais claro, e á medida que vai anoitecendo, o fundo do site vai ficando mais escuro. 
+
+<img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/Hora%20do%20Dia%20Manh%C3%A3.png">
+
+<img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/Hora%20do%20Dia%20Noite.png">
+>>>>>>> 4feca34101e19ab979050e9eb94e97feabb70a3e
