@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hora-do-dia/static/css/main.1b813201.css",
+    "main.js": "/hora-do-dia/static/js/main.6721ecc7.js",
+    "static/js/787.52150cf8.chunk.js": "/hora-do-dia/static/js/787.52150cf8.chunk.js",
+    "static/media/afternoon.jpg": "/hora-do-dia/static/media/afternoon.112f1a62bb9aa3e471be.jpg",
+    "static/media/morning.jpg": "/hora-do-dia/static/media/morning.7493cc4b3018f4681952.jpg",
+    "static/media/night.jpg": "/hora-do-dia/static/media/night.1d7684e74152c550993f.jpg",
+    "index.html": "/hora-do-dia/index.html",
+    "main.1b813201.css.map": "/hora-do-dia/static/css/main.1b813201.css.map",
+    "main.6721ecc7.js.map": "/hora-do-dia/static/js/main.6721ecc7.js.map",
+    "787.52150cf8.chunk.js.map": "/hora-do-dia/static/js/787.52150cf8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b813201.css",
+    "static/js/main.6721ecc7.js"
+  ]
+}
