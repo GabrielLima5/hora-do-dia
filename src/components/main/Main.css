@@ -1,0 +1,66 @@
+.container {
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    width: 700px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container p {
+    margin: 10px 0;
+    font-size: 1.5em;
+    color: black;
+    display: inline-block;
+}
+
+.container .hours {
+    margin-left: 10px;
+}
+
+.container .time,
+.container .text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .text{
+    flex-direction: column;
+}
+
+.container .hours,
+.minutes {
+    font-weight: bold;
+}
+
+.container img {
+    width: 350px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+@media only screen and (max-width: 700px){
+    .container{
+        width: 400px;
+    }
+
+    .container img{
+        width: 250px;
+        height: 240px;
+    }
+}
+  
+@media only screen and (max-width: 400px){
+    .container{
+      width: 270px;
+    }
+  
+    .container img{
+      width: 150px;
+      height: 140px;
+    }
+  }
